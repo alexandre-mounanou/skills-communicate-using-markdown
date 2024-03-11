@@ -3,3 +3,6 @@
 ```javascript
 let object == "cercueil";
 ```
+- [x] Image des personnages principaux
+- [ ] Message d'adieu
+- [ ] Vidéo de sa vie
